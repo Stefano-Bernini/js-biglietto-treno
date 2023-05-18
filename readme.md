@@ -13,4 +13,4 @@ PROBLEMA: calcolare il prezzo del biglietto del treno in base alla km percorsi e
     5.3 - Stampare il prezzo scontato
 6 - : ALTRIMENTI;
     6.1 - Racchiudere il prezzo non scontato in una variabile;
-    6.2 - Stampare il prezzo scontato
+    6.2 - Stampare il prezzo non scontato
